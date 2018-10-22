@@ -1,0 +1,30 @@
+/*
+*  Custom CSS
+*  Author: Jen Patrick Concon
+*  www.facebook.com/jconcon
+*/
+
+/***** Global CSS *****/
+.h-100-vh { height: 100vh !important; }
+.h-75-vh { height: 75vh !important; }
+.h-50-vh { height: 50vh !important; }
+.h-25-vh { height: 25vh !important; }
+
+/***** Main Navigation *****/
+header#masthead .navbar {
+    /*height: 3.5rem;*/
+}
+
+/***** Main Content *****/
+main#content {
+	padding-top: 3.5rem;
+}
+
+/***** Sidebar Navigation *****/
+aside#sidebar {
+    position: fixed;
+    /*background-color: #f3f3f3 !important;*/
+    height: 100vh;
+    box-shadow: -5px 0px 8px 2px #000;
+}
+
