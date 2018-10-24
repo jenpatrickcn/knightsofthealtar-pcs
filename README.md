@@ -3,4 +3,6 @@ _**A website built in Laravel and Vue.js used to automatize the counting of serv
 
 [LinkedIn](https://www.linkedin.com/in/jenpatrickconcon/) [Twitter](https://twitter.com/jenpatrickcn)
 
+[How to setup the project](https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/)
+
 Note: *Ongoing Development*
